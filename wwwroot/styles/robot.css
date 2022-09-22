@@ -1,0 +1,117 @@
+.swagger-ui img {
+    content: url("/images/deakin-logo.png");
+}
+
+.swagger-ui .topbar .download-url-wrapper .select-label select {
+    border-color: #008b8b;
+}
+
+.swagger-ui .info .title small:last-child {
+    background-color: #008b8b !important;
+}
+
+.swagger-ui .topbar {
+    padding: 15px 30px;
+    background-color: #008b8b;
+    background-color: #FFF;
+    box-shadow: 0 0.02px 6px 0 #58bcaf;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.swagger-ui .info hgroup.main {
+    margin: 150px 0 20px;
+}
+
+.swagger-ui .topbar .download-url-wrapper .select-label {
+    color: #3b4151;
+}
+
+.swagger-ui .topbar .download-url-wrapper .select-label select {
+    border-color: #58bcaf;
+}
+
+.swagger-ui .info .title small:last-child {
+    background-color: #58bcaf !important;
+}
+
+.swagger-ui .opblock-tag:hover {
+    background: rgba(0, 139, 139, 0.3);
+}
+
+.swagger-ui .opblock.opblock-get .opblock-summary-method {
+    background: #1d8098;
+}
+
+.swagger-ui .opblock.opblock-post .opblock-summary-method {
+    background: #C74298;
+}
+
+.swagger-ui .opblock.opblock-put .opblock-summary-method {
+    background: #f98c4e;
+}
+
+.swagger-ui .opblock.opblock-delete .opblock-summary-method {
+    background: #008b8b;
+}
+
+.swagger-ui img {
+    content: url(/images/deakin-logo.png);
+    height: 50px;
+}
+
+.swagger-ui section.models .model-container {
+    background: rgba(0,130,139,.1);
+}
+
+.swagger-ui section.models .model-container:hover {
+    background: rgba(0,139,139,.1);
+}
+
+.swagger-ui .opblock.opblock-get {
+    background: rgba(29,128,152,.1);
+    border-color: #1d8098;
+}
+
+.swagger-ui .opblock.opblock-get .opblock-summary {
+    border-color: #1d8098;
+}
+
+.swagger-ui .opblock.opblock-post {
+    background: rgba(199,66,152,0.1);
+    border-color: #C74298;
+}
+
+.swagger-ui .opblock.opblock-post .opblock-summary {
+    border-color: #C74298;
+}
+
+.swagger-ui .opblock.opblock-put {
+    background: rgba(249, 140, 78, .1);
+    border-color: #f98c4e;
+}
+
+.swagger-ui .opblock.opblock-put .opblock-summary {
+    border-color: #f98c4e;
+}
+
+.swagger-ui .opblock.opblock-delete {
+    background: rgba(0, 139, 139, 0.1);
+    border-color: #008b8b;
+}
+
+.swagger-ui .opblock.opblock-delete .opblock-summary {
+    border-color: #008b8b;
+}
+
+.swagger-ui .info a {
+    color: #58bcaf;
+}
+
+.swagger-ui .info a:hover {
+    color: #3b4151;
+}
